@@ -1,0 +1,11 @@
+c:\users\ayxia\documents\visual studio 2015\Projects\Text_Editor\Text_Editor\bin\Debug\Text_Editor.exe.config
+c:\users\ayxia\documents\visual studio 2015\Projects\Text_Editor\Text_Editor\bin\Debug\Text_Editor.exe
+c:\users\ayxia\documents\visual studio 2015\Projects\Text_Editor\Text_Editor\bin\Debug\Text_Editor.pdb
+c:\users\ayxia\documents\visual studio 2015\Projects\Text_Editor\Text_Editor\bin\Debug\Text_Editor.xml
+c:\users\ayxia\documents\visual studio 2015\Projects\Text_Editor\Text_Editor\obj\Debug\Text_Editor.vbprojResolveAssemblyReference.cache
+c:\users\ayxia\documents\visual studio 2015\Projects\Text_Editor\Text_Editor\obj\Debug\Text_Editor.frmTextEditor.resources
+c:\users\ayxia\documents\visual studio 2015\Projects\Text_Editor\Text_Editor\obj\Debug\Text_Editor.Resources.resources
+c:\users\ayxia\documents\visual studio 2015\Projects\Text_Editor\Text_Editor\obj\Debug\Text_Editor.vbproj.GenerateResource.Cache
+c:\users\ayxia\documents\visual studio 2015\Projects\Text_Editor\Text_Editor\obj\Debug\Text_Editor.exe
+c:\users\ayxia\documents\visual studio 2015\Projects\Text_Editor\Text_Editor\obj\Debug\Text_Editor.xml
+c:\users\ayxia\documents\visual studio 2015\Projects\Text_Editor\Text_Editor\obj\Debug\Text_Editor.pdb
